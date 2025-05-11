@@ -19,7 +19,7 @@ public class Conn {
 		// Creating Statement
 		try {
 			//Step 1
-			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankmanagementsystem", "root", "NAMEYOUR0544");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankmanagementsystem", "YourUserName From Sql", "YourPassWord From Sql");
 			stmt = conn.createStatement();
 			
 		}
