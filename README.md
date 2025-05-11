@@ -45,7 +45,7 @@ The ATM Simulator is a Java-based desktop application that simulates the functio
 ## Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/badalashani20/ATM-SIMULATOR.git
+   git clone https://github.com/badalsahani20/ATM-SIMULATOR.git
    cd ATM-SIMULATOR
    ```
 2. **Open in an IDE**:
